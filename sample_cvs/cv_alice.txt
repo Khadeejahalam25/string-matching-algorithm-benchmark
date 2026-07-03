@@ -1,0 +1,5 @@
+Alice Johnson
+Data Scientist with 3 years of experience in Python, Machine Learning, and Statistics.
+Skilled in SQL, Data Analysis, TensorFlow, and Pandas. Built deep learning models using
+PyTorch and worked extensively with NumPy and Scikit-learn for predictive analytics.
+Familiar with NLP techniques and Tableau for data visualization.

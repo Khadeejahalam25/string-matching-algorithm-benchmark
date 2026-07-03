@@ -1,0 +1,38 @@
+JOB DESCRIPTION: DATA SCIENTIST
+
+Position: Data Scientist
+Department: Data Analytics & AI
+Location: Remote/Hybrid
+
+MANDATORY SKILLS (Must Have):
+- Python programming
+- Machine Learning algorithms and implementations
+- SQL and database management
+- Statistics and statistical analysis
+- Data Analysis and interpretation
+
+OPTIONAL SKILLS (Preferred):
+- TensorFlow framework
+- PyTorch deep learning
+- R programming language
+- Tableau data visualization
+- Deep Learning neural networks
+- Natural Language Processing (NLP)
+- Pandas data manipulation
+- NumPy scientific computing
+- Scikit-learn machine learning library
+- Apache Spark big data processing
+- Hadoop distributed computing
+
+RESPONSIBILITIES:
+- Develop and implement machine learning models
+- Analyze large datasets using Python and SQL
+- Create data visualizations and reports
+- Apply statistical methods to solve business problems
+- Collaborate with cross-functional teams
+
+QUALIFICATIONS:
+- Bachelor's or Master's degree in Computer Science, Statistics, or related field
+- 3+ years of experience in data science
+- Strong problem-solving skills
+- Excellent communication abilities

@@ -1,0 +1,4 @@
+Mariam Yousuf
+Frontend engineer specializing in React and modern JavaScript. Comfortable with
+HTML, CSS, Redux, and Webpack build tooling. Basic Node.js knowledge and some
+experience with Git and REST API integration. Currently exploring Vue as well.

@@ -1,0 +1,5 @@
+Bilal Khan
+Full-stack Web Developer proficient in HTML, CSS, JavaScript, and React.
+Experience building REST APIs with Node.js and Express. Familiar with MongoDB,
+Git version control, and Docker containerization. Currently learning TypeScript
+and GraphQL for modern web applications.

@@ -1,0 +1,39 @@
+JOB DESCRIPTION: WEB DEVELOPER
+
+Position: Full Stack Web Developer
+Department: Software Development
+Location: Onsite/Remote
+
+MANDATORY SKILLS (Must Have):
+- HTML5 markup language
+- CSS3 styling and responsive design
+- JavaScript programming
+- React.js frontend framework
+- Node.js backend development
+
+OPTIONAL SKILLS (Preferred):
+- TypeScript static typing
+- Vue.js framework
+- Angular framework
+- MongoDB NoSQL database
+- Express.js web framework
+- REST API development and integration
+- Git version control
+- Webpack module bundler
+- Redux state management
+- GraphQL query language
+- Docker containerization
+
+RESPONSIBILITIES:
+- Design and develop responsive web applications
+- Build RESTful APIs using Node.js and Express
+- Implement frontend features with React
+- Write clean, maintainable HTML, CSS, and JavaScript
+- Collaborate with designers and backend developers
+- Optimize applications for performance
+
+QUALIFICATIONS:
+- Bachelor's degree in Computer Science or related field
+- 2+ years of web development experience
+- Portfolio of web projects
+- Strong understanding of web standards

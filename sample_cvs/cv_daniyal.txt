@@ -1,0 +1,4 @@
+Daniyal Raza
+Aspiring developer with foundational Python and SQL skills. Currently studying
+Machine Learning and Statistics through online coursework. Some exposure to
+Data Analysis using Pandas. No professional experience yet, seeking an internship.

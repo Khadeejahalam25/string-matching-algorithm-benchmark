@@ -1,0 +1,5 @@
+Sara Ahmed
+QA and Software Testing professional with strong background in Test Cases design,
+Bug Tracking, and manual/automated Testing. Proficient with Selenium WebDriver,
+JIRA for issue tracking, and Postman for API Testing. Experience with JUnit and
+basic performance testing using JMeter.

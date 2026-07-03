@@ -1,0 +1,39 @@
+JOB DESCRIPTION: SOFTWARE TESTER / QA ENGINEER
+
+Position: Software Quality Assurance Engineer
+Department: Quality Assurance
+Location: Hybrid
+
+MANDATORY SKILLS (Must Have):
+- Software Testing methodologies
+- Quality Assurance (QA) processes
+- Selenium automation framework
+- Test Cases design and execution
+- Bug Tracking and defect management
+
+OPTIONAL SKILLS (Preferred):
+- Test Automation frameworks
+- JIRA project management tool
+- Postman API testing tool
+- API Testing methodologies
+- Performance Testing tools
+- JUnit testing framework
+- TestNG testing framework
+- Cucumber BDD framework
+- Jenkins CI/CD pipeline
+
+RESPONSIBILITIES:
+- Design and execute comprehensive test cases
+- Perform manual and automated testing
+- Use Selenium for web application testing
+- Track and report bugs using bug tracking systems
+- Conduct API testing with Postman
+- Ensure software quality standards
+- Collaborate with development teams
+
+QUALIFICATIONS:
+- Bachelor's degree in Computer Science or related field
+- 2+ years of QA/testing experience
+- ISTQB certification preferred
+- Strong attention to detail
+- Analytical thinking skills
