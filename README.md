@@ -76,8 +76,8 @@ Python · PyPDF2 · python-docx · pandas · matplotlib · seaborn · openpyxl
 ## How to run it
 
 ```bash
-git clone https://github.com/<your-username>/cv-analyzer-string-matching.git
-cd cv-analyzer-string-matching
+git clone https://github.com/Khadeejahalam25/string-matching-algorithm-benchmark.git
+cd string-matching-algorithm-benchmark
 
 pip install -r requirements.txt
 python cv_analyzer.py
